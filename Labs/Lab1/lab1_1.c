@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Gianni Louisa
+//This is a program that functions as a basic calculator
 int main(){//main function
     float first,second;//declares first and second as floats
     char sign;//declares sign as a char
