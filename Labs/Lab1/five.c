@@ -1,8 +1,9 @@
 #include <stdio.h>
-
-
-int main() {
+//Gianni Louisa
+//This program takes input of a array and takes that array and finds the duplicates inside of it
+int main() {//main function
 int numbers[] = {25,50,75,25,100,13,22,1222,32222,12,13,32222};//test array
+//char numbers[] = {'Gianni',"Carmine","Gianni"}
     int len =sizeof(numbers)/sizeof(numbers[0]);//finds the length of list by dividing size of the list by the first
     //printf("%d",len); //for testing
     for(int i = 0; i < len; i++){//for loop that goes until its looped through entire list
@@ -13,5 +14,5 @@ int numbers[] = {25,50,75,25,100,13,22,1222,32222,12,13,32222};//test array
         
       }
     }
-  return 0;
+  return 0;//returns nothing
 }

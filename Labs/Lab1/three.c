@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Gianni Louisa
+//Gets an input from the user for the max number they want to check the prime numbers up to.
 
 int main() {
        int limitt;//Defines variable limitt as an int
@@ -18,6 +19,5 @@ int main() {
             printf("%d \n ", count);//prints the number with a new line character behind it.
           }
           }
-
   return 0;//returns nothing
 }

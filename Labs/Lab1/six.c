@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Gianni Louisa
+//In this program we check the length of a array using a pointer.
 
 int main() {
   char name[100];//initizlizes the name variable up to 100 characters

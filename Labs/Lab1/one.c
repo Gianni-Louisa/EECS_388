@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Gianni Louisa
+//This is a basic calculator which takes input of a mode for the calcuator then 2 numbers and outputs the corresponding answer.
 
 int main() {
 //#1

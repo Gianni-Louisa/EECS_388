@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Gianni Louisa
+//This program is a converter between binary and hexidecimal and hexidecimal to binary.
 
 int main() {//main function
   int inputt;// input variable

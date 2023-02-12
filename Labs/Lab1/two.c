@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+//Gianni Louisa
+//This program takes in a number from the user then catagroizes the number within 3 set height groups then returns to the user their 
 int main() {
   //#2
 

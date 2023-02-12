@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
-
+//Gianni Louisa
+//In this program we add to program 1 a few different features using the math.h library. 
 int main() {
 char operatorr;//intizizes opertatorr variable as a character
   float first, second;//initizalized using float to make sure when we divide it wont error out because of decimal points, and give us correct answer
